@@ -2,7 +2,7 @@
 
 I am interested in systems biology, gene regulation, machine learning, deep learning and causality.
 
-I am developing single-cell omics tools to decipher gene regulatory mechanisms.
+I am developing single-cell omics tools to decipher core gene regulatory mechanisms.
 
 Google scholar page
 https://scholar.google.com/citations?hl=en&user=R9eCGqcAAAAJ&view_op=list_works&sortby=pubdate
