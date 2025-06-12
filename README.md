@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I am interested in systems biology, gene regulation, machine learning, deep learning and causality.
+
+I am developing single-cell omics tools to decipher gene regulatory mechanisms.
+
+Google scholar page
+https://scholar.google.com/citations?hl=en&user=R9eCGqcAAAAJ&view_op=list_works&sortby=pubdate
+
 <!--
 **JunqiangWang/JunqiangWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
