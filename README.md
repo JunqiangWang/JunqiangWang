@@ -1,4 +1,4 @@
-## Hi there 👋
+##
 
 I am interested in systems biology, gene regulation, machine learning, deep learning and causality.
 
